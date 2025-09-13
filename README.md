@@ -1,8 +1,9 @@
-# 🎓 Demographic Factors and College Completion
+# Analyze Demographic Factors and Predict College Completion
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)](https://scikit-learn.org/stable/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![Data Source](https://img.shields.io/badge/Data%20Source-IPEDS-orange.svg)](https://nces.ed.gov/ipeds/)
 
 ## Project Overview  
 This project analyzes demographic factors influencing college degree completion rates across 16,065 U.S. higher education institutions using data from the National Center for Education Statistics (NCES) for the 2022-2023 academic year. Through advanced machine learning techniques, I identify the strongest predictors of institutional success in degree completions.
